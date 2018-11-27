@@ -1,0 +1,11 @@
+C:\Users\nothos\Documents\GitHub\dynamore\Source\bin\Debug\Dynamore_ViewExtensionDefinition.xml
+C:\Users\nothos\Documents\GitHub\dynamore\Source\bin\Debug\Dynamore.dll
+C:\Users\nothos\Documents\GitHub\dynamore\Source\bin\Debug\Dynamore.pdb
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore.csprojAssemblyReference.cache
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\DynamoreWindow.baml
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\DynamoreWindow.g.cs
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore_MarkupCompile.cache
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore.g.resources
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore.csproj.CoreCompileInputs.cache
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore.dll
+C:\Users\nothos\Documents\GitHub\dynamore\Source\obj\Debug\Dynamore.pdb

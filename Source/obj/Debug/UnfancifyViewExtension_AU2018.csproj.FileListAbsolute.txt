@@ -1,0 +1,17 @@
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyViewExtension_AU2018.csprojAssemblyReference.cache
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyWindow.baml
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyWindow.g.cs
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify_MarkupCompile.cache
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify.g.resources
+C:\Users\nothos\Desktop\AU 2018\C#\Handout\DeveloperWorkshop-master\CBW227909 - View Extensions for C# Beginners\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyViewExtension_AU2018.csproj.CoreCompileInputs.cache
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyViewExtension_AU2018.csprojAssemblyReference.cache
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyWindow.baml
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyWindow.g.cs
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify_MarkupCompile.cache
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify.g.resources
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\UnfancifyViewExtension_AU2018.csproj.CoreCompileInputs.cache
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\bin\Debug\Unfancify_ViewExtensionDefinition.xml
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\bin\Debug\Unfancify.dll
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\bin\Debug\Unfancify.pdb
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify.dll
+C:\Users\nothos\Desktop\_Workshop_Units\Unit 01 - First Things First\Source\obj\Debug\Unfancify.pdb

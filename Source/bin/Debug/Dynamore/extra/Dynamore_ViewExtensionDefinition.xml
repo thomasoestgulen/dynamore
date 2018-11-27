@@ -1,0 +1,4 @@
+﻿<ViewExtensionDefinition>
+  <AssemblyPath>..\bin\Dynamore.dll</AssemblyPath>
+  <TypeName>Dynamore.DynamoreViewExtension</TypeName>
+</ViewExtensionDefinition>
